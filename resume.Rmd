@@ -1,0 +1,22 @@
+---
+title: "My CV"
+image: "ew_profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: ResearchGate
+    url: "https://twitter.com/"
+  - label: GoogleScholar
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:wong0703@umn.edu"
+output:
+  html_document
+
+---
+ 
+My Full CV is available here.
+
+
+
+
