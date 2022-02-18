@@ -36,5 +36,6 @@ Before coming to the University of Minnesota, I worked as a lab manager in the [
 
 <span style="color:#464646;">
 email: [wong0703@umn.edu](mailto:wong0703@umn.edu)
-My Full CV is available here.
+
+My full CV is available [here](CV_Eugene Wong_resize.pdf).
 </span>

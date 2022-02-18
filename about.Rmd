@@ -6,12 +6,12 @@ output:
 
 ---
 
+### Under Construction
 
-I like aviation and travelling.
+I love outdoor activities, traveling and aviation. My favourite destinations were Portugal, Montenegro and Thailand.
 
+In my free time, I also manage an airline company in the game Airlines Manager. Currently, my airline is operating ~792 aircraft (including 101 cargo planes), flying to ~381 destinations. I have ~520,311 staff, working at 10 hubs: HKG, TPE, NRT, BKK, DXB, FRA, MAD, ANC, LAX and JFK.
 
-
-
-
-
-
+<p align="center">
+![](IMG_9757.png){style="width: 80%;"}
+</p>

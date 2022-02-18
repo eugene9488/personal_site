@@ -14,11 +14,11 @@ navbar:
     - text: " Contact "
       menu:
         - text: "LinkedIn"
-          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+          href: "https://www.linkedin.com/in/eugene-wong-a8a011133"
         - text: "GoogleScholar"
-          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+          href: "https://scholar.google.com/citations?hl=en&user=Fc6zOuYAAAAJ"
         - text: "ResearchGate"
-          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+          href: "https://www.researchgate.net/profile/Eugene-Wong-16"
         - text: "Email"
           href: "mailto:wong0703@umn.edu"
 

@@ -12,15 +12,17 @@ Advisor: Benjamin Munson, University of Minnesota
 
 It has been long hypothesized that the speech of children assigned male at birth (AMAB) and children female at birth (AFAB) should not differ before puberty, because sex dimorphism  (i.e., differences between cisgender adult men and women) in the vocal organs occurs at puberty. Nevertheless, previous literature showed that adults are able to distinguish voices between AMAB and AFAB children well-above chance. It follows that any differences between the speech of these groups of children are "performed" and "socially learned". It remains unclear what phonetic features distinguish AMAB children from AFAB children, and how children acquire such gender-related features of speech. 
 
-In the current project, we conduct acoustical analysis on the speech of 55 AMAB and 55 AFAB children at 2.5 and 5 years-of-age in a longitudinal study by Munson & ?. Specifically, we look at how F0, acoustic vocal tract length, vowel space size and /s/ acoustics contributes to the perceived gender ratings of these children.
 
-In the future, we would like to conduct cross-linguistic studies by comparing how children of different languages and cultures express genderedness, as well as how this social-learning process happens in children. 
+In the current project, we conduct acoustical analysis on the speech of 55 AMAB and 55 AFAB children at 2.5 and 5 years-of-age in a longitudinal study by Munson & Edwards. Specifically, we look at how F0, acoustic vocal tract length, vowel space size and /s/ acoustics contributes to the perceived gender ratings of these children.
 
-I have presented part of this study in the ASA Fall 2021 meeting in Seattle. 
 
-The poster can be found [**here**](qrco.de/bcYkgM).
+In the future, we would like to conduct cross-linguistic studies and behavioral studies examining how children acquire these variation of speech.
+
+Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. 
 
 Wong, E., & Munson, B. (2021). A longitudinal study of gender-specific characteristics of children’s vowels. The Journal of the Acoustical Society of America, 150(4), A152-A152. https://doi.org/10.1121/10.0007954
+
+The poster can be found [**here**](https://qrco.de/bcYkgM).
 
 ----
 
