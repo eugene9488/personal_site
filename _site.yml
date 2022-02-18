@@ -1,7 +1,6 @@
 name: "."
 title: "Eugene Wong"
 description: |
-  Eugene Wong@UMN
 output_dir: "docs"
 theme: postcards.css
 navbar:
