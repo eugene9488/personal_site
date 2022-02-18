@@ -1,0 +1,24 @@
+name: "."
+title: "Eugene Wong"
+description: |
+output_dir: "docs"
+theme: postcards.css
+navbar:
+  right:
+    - text: " Home "
+      href: index.html
+    - text: " Research "
+      href: research.html
+    - text: " About "
+      href: about.html
+    - text: " Contact "
+      menu:
+        - text: "LinkedIn"
+          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+        - text: "GoogleScholar"
+          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+        - text: "ResearchGate"
+          href: "https://www.youtube.com/watch?v=SJ3jf9C-nlE"
+        - text: "Email"
+          href: "mailto:wong0703@umn.edu"
+
