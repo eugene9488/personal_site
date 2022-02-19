@@ -29,12 +29,12 @@ The poster can be found [**here**](https://qrco.de/bcYkgM).
 ### *Voice Quality features of Hong Kong Cantonese and Guangzhou Cantonese*
 Collaborator: Roxana Fung, HKPolyU
 
-Hong Kong Cantonese (HKC) and Guangzhou Cantonese (GZC) are two regional accents of Cantonese. They share the same phonetic inventory except for the high-level tone (55) could be realized as a high-falling tone (53) in older GZC talkers. However, native speakers can often distinguish the two accents without the cue of the high-falling tone. It remains a perplexing question on what are the phonetic distinction between the two Cantonese accents. 
+Hong Kong Cantonese (HKC) and Guangzhou Cantonese (GZC) are two regional accents of Cantonese. They share the same phonetic inventory except for the high-level tone (55) that could be realized with a high-falling tone (53) in older GZC speakers. However, native speakers can often distinguish the two accents without the cue of the high-falling tone. It remains a perplexing question what phonetic features distinguish the two Cantonese accents. 
 
 ### Part 1
-In this study, we aim to look at the voice quality features of the two accents, and the development of these features between the three age groups. We examined the speech of 191 Cantonese talkers of three age groups from the two cities. We measured the auditory and acoustic analysis of the voice quality features. 
+In this study, we look at the voice quality features of the two accents, and the development of these features between various age groups. We examined the speech of 191 Cantonese talkers of three age groups from the two cities. We conducted auditory and acoustic analysis of the voice quality features.  
 
-Preliminary results of this study was presented in:
+Preliminary results of this study were presented in:
 
 Fung, R. and Wong, Y-C. (2017). The voice quality differences between Hong Kong Cantonese and Guangzhou Cantonese. The 22nd JWLLP & The 5th Workshop on VariAMU. The Hong Kong Polytechnic University, Hong Kong, April 8th, 2017.
 
@@ -42,6 +42,6 @@ Fung, R. and Wong, E. (2017). The differences in voice quality between Hong   Ko
 
 
 ### Part 2
-In the second part of this project, we want to further investigate the voice quality settings of HKC and GZC. Specifically, we look at differences in laryngeal settings, tongue posture and resonance. We collected acoustic and EGG data of 20 HKC and 20 GZC talkers performing text-reading and free speech tasks. Data Analysis is on-going.
+In the second part of this project, we further investigate the voice quality settings of HKC and GZC. Specifically, we look at the differences in laryngeal settings, tongue posture and resonance. We collected acoustic and EGG data of 20 HKC and 20 GZC talkers performing text-reading and free speech tasks. Data Analysis is on-going.
 
 
