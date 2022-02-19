@@ -28,6 +28,7 @@ The poster can be found [**here**](https://qrco.de/bcYkgM).
 
 ### *Voice Quality features of Hong Kong Cantonese and Guangzhou Cantonese*
 Collaborator: Roxana Fung, HKPolyU
+
 Hong Kong Cantonese (HKC) and Guangzhou Cantonese (GZC) are two regional accents of Cantonese. They share the same phonetic inventory except for the high-level tone (55) could be realized as a high-falling tone (53) in older GZC talkers. However, native speakers can often distinguish the two accents without the cue of the high-falling tone. It remains a perplexing question on what are the phonetic distinction between the two Cantonese accents. 
 
 ### Part 1
