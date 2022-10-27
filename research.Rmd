@@ -8,7 +8,7 @@ output:
 ---
 
 ### *Acquisition of gendered speech*
-Advisor: Benjamin Munson, University of Minnesota
+Adviser: Benjamin Munson, University of Minnesota
 
 It has been long hypothesized that the speech of children assigned male at birth (AMAB) and children female at birth (AFAB) should not differ before puberty, because sex dimorphism  (i.e., differences between cisgender adult men and women) in the vocal organs occurs at puberty. Nevertheless, previous literature showed that adults are able to distinguish voices between AMAB and AFAB children well-above chance. It follows that any differences between the speech of these groups of children are "performed" and "socially learned". It remains unclear what phonetic features distinguish AMAB children from AFAB children, and how children acquire such gender-related features of speech. 
 
@@ -24,7 +24,16 @@ Wong, E., & Munson, B. (2021). A longitudinal study of gender-specific character
 
 The poster can be found [**here**](https://qrco.de/bcYkgM).
 
-----
+---
+
+### *Identifying developmental language disorder in diverse multilingual children*
+Adviser: Kerry Ebert & Lizbeth Finestack, University of Minnesota
+
+This project aims to validate the use of dynamic and processing-based assessments for identifying developmental language disorder (DLD) in multilingual children. Currently, over a quarter of children in the U.S. speak a language other than English at home. However, traditional methods of language assessment compares a multilingual child's performance to those of monolingual English children. Yet, cultural and linguistic differences often lead to discrepancies in assessment performances in this diverse population. Misidentification of DLD would results in exclusion or inclusion of language therapy. Therefore, alternative approaches are needed for identifying DLD in multilingual children.
+
+My role in this project is to modify test materials, collect and analyze data from Mandarin-English and Cantonese-English bilingual children. 
+
+---
 
 ### *Voice Quality features of Hong Kong Cantonese and Guangzhou Cantonese*
 Collaborator: Roxana Fung, HKPolyU
