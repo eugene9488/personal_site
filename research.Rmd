@@ -8,15 +8,15 @@ output:
 ---
 
 ### *Acquisition of gendered speech*
-Adviser: Benjamin Munson, University of Minnesota
+Advisor: Benjamin Munson, University of Minnesota
 
-It has been long hypothesized that the speech of children assigned male at birth (AMAB) and children female at birth (AFAB) should not differ before puberty, because sex dimorphism  (i.e., differences between cisgender adult men and women) in the vocal organs occurs at puberty. Nevertheless, previous literature showed that adults are able to distinguish voices between AMAB and AFAB children well-above chance. It follows that any differences between the speech of these groups of children are "performed" and "socially learned". It remains unclear what phonetic features distinguish AMAB children from AFAB children, and how children acquire such gender-related features of speech. 
+It has been long hypothesized that the speech of children assigned male at birth (AMAB) and children female at birth (AFAB) should not differ before puberty, because sex dimorphism in the vocal organs (i.e., differences between cisgender adult men and women)  occurs at puberty. Nevertheless, previous literature showed that adults are able to distinguish voices between AMAB and AFAB children well-above chances. It follows that any differences between the speech of the two groups of children are socially learned. However we do not know  what phonetic features distinguish AMAB children from AFAB children, and how children acquire these gender-related features of speech. 
 
 
 In the current project, we conduct acoustical analysis on the speech of 55 AMAB and 55 AFAB children at 2.5 and 5 years-of-age in a longitudinal study by Munson & Edwards. Specifically, we look at how F0, acoustic vocal tract length, vowel space size and /s/ acoustics contributes to the perceived gender ratings of these children.
 
 
-In the future, we would like to conduct cross-linguistic studies and behavioral studies examining how children acquire these variation of speech.
+In the future, we would like to conduct cross-linguistic studies and behavioral studies examining how children acquire these variations of speech.
 
 Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. 
 
@@ -27,7 +27,7 @@ The poster can be found [**here**](https://qrco.de/bcYkgM).
 ---
 
 ### *Identifying developmental language disorder in diverse multilingual children*
-Adviser: Kerry Ebert & Lizbeth Finestack, University of Minnesota
+Advisors: Kerry Ebert & Lizbeth Finestack, University of Minnesota
 
 This project aims to validate the use of dynamic and processing-based assessments for identifying developmental language disorder (DLD) in multilingual children. Currently, over a quarter of children in the U.S. speak a language other than English at home. However, traditional methods of language assessment compares a multilingual child's performance to those of monolingual English children. Yet, cultural and linguistic differences often lead to discrepancies in assessment performances in this diverse population. Misidentification of DLD would results in exclusion or inclusion of language therapy. Therefore, alternative approaches are needed for identifying DLD in multilingual children.
 
