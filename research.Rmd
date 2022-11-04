@@ -7,38 +7,49 @@ output:
 
 ---
 
-### *Acquisition of gendered speech*
-Advisor: Benjamin Munson, University of Minnesota
+### *Longitudinal study of gender speech development*
+Advisor: Benjamin Munson (University of Minnesota)
 
-It has been long hypothesized that the speech of children assigned male at birth (AMAB) and children female at birth (AFAB) should not differ before puberty, because sex dimorphism in the vocal organs (i.e., differences between cisgender adult men and women)  occurs at puberty. Nevertheless, previous literature showed that adults are able to distinguish voices between AMAB and AFAB children well-above chances. It follows that any differences between the speech of the two groups of children are socially learned. However we do not know  what phonetic features distinguish AMAB children from AFAB children, and how children acquire these gender-related features of speech. 
-
-
-In the current project, we conduct acoustical analysis on the speech of 55 AMAB and 55 AFAB children at 2.5 and 5 years-of-age in a longitudinal study by Munson & Edwards. Specifically, we look at how F0, acoustic vocal tract length, vowel space size and /s/ acoustics contributes to the perceived gender ratings of these children.
+In this project, we examine the acoustical difference on the speech of 55 AMAB and 55 AFAB children from 2.5 to 5 years-of-age. Specifically, we look at how F0, acoustic vocal tract length, vowel space size, /s/ acoustics and voice quality contribute to the perceived gender ratings in these children.
 
 
-In the future, we would like to conduct cross-linguistic studies and behavioral studies examining how children acquire these variations of speech.
-
-Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. 
+Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. [**Poster**]
 
 Wong, E., & Munson, B. (2021). A longitudinal study of gender-specific characteristics of children’s vowels. The Journal of the Acoustical Society of America, 150(4), A152-A152. https://doi.org/10.1121/10.0007954
 
-The poster can be found [**here**](https://qrco.de/bcYkgM).
 
 ---
 
-### *Identifying developmental language disorder in diverse multilingual children*
-Advisors: Kerry Ebert & Lizbeth Finestack, University of Minnesota
+### *Project H2T: From Hearing to talking: The Sociophonetics of Child-Directed Speech *
+Advisor: Benjamin Munson (University of Minnesota)
 
-This project aims to validate the use of dynamic and processing-based assessments for identifying developmental language disorder (DLD) in multilingual children. Currently, over a quarter of children in the U.S. speak a language other than English at home. However, traditional methods of language assessment compares a multilingual child's performance to those of monolingual English children. Yet, cultural and linguistic differences often lead to discrepancies in assessment performances in this diverse population. Misidentification of DLD would results in exclusion or inclusion of language therapy. Therefore, alternative approaches are needed for identifying DLD in multilingual children.
+One way that children might learn gendered speech is through child-directed speech. Here we examine how mothers of AMAB vs. AFAB children talk. 
+
+
+---
+
+### *Project WhIMS: Who is my Model for Speech? Development of Gendered Speech in Children*
+Advisors/Mentos: Benjamin Munson, Melissa Koenig & Charisse Pickron (University of Minnesota)
+
+Another possible way for children to learn gendered speech is to imitate a speaker "model" whom they evaluate favourably. In this project, we examine how children’s social preferences are influenced by gender information conveyed by speech versus by faces, and whether this social preferences motivate children's learning of gendered speech.
+
+
+---
+
+### *Identifying language impairment in diverse multilingual children*
+Advisors: Kerry Ebert & Lizbeth Finestack (University of Minnesota)
+
+This project validates the use of dynamic and processing-based assessments for identifying developmental language disorder (DLD) in multilingual children. This is because traditional methods of language assessment compares a multilingual child's performance to those of monolingual English children, which  often lead to discrepancies in assessment performances in this diverse population. 
 
 My role in this project is to modify test materials, collect and analyze data from Mandarin-English and Cantonese-English bilingual children. 
+
 
 ---
 
 ### *Voice Quality features of Hong Kong Cantonese and Guangzhou Cantonese*
-Collaborator: Roxana Fung, HKPolyU
+Collaborator: Roxana Fung (HKPolyU)
 
-Hong Kong Cantonese (HKC) and Guangzhou Cantonese (GZC) are two regional accents of Cantonese. They share the same phonetic inventory except for the high-level tone (55) that could be realized with a high-falling tone (53) in older GZC speakers. However, native speakers can often distinguish the two accents without the cue of the high-falling tone. It remains a perplexing question what phonetic features distinguish the two Cantonese accents. 
+Hong Kong Cantonese (HKC) and Guangzhou Cantonese (GZC) are two regional accents of Cantonese. They share the same phonetic inventory except for the high-level tone (55) that could be realized with a high-falling tone (53) in older GZC speakers. However, native speakers can often distinguish the two accents without the cue of the high-falling tone. In this project, we look at what phonetic features distinguish the two Cantonese accents. 
 
 ### Part 1
 In this study, we look at the voice quality features of the two accents, and the development of these features between various age groups. We examined the speech of 191 Cantonese talkers of three age groups from the two cities. We conducted auditory and acoustic analysis of the voice quality features.  
@@ -51,6 +62,6 @@ Fung, R. and Wong, E. (2017). The differences in voice quality between Hong   Ko
 
 
 ### Part 2
-In the second part of this project, we further investigate the voice quality settings of HKC and GZC. Specifically, we look at the differences in laryngeal settings, tongue posture and resonance. We collected acoustic and EGG data of 20 HKC and 20 GZC talkers performing text-reading and free speech tasks. Data Analysis is on-going.
+We further collected acoustic and EGG data from text-reading and free speech tasks to examine the articulation and acoustic variations between the two groups of talkers. Data Analysis is on-going.
 
 
