@@ -13,9 +13,10 @@ Advisor: Benjamin Munson (University of Minnesota)
 In this project, we examine the acoustical difference on the speech of 55 AMAB and 55 AFAB children from 2.5 to 5 years-of-age. Specifically, we look at how F0, acoustic vocal tract length, vowel space size, /s/ acoustics and voice quality contribute to the perceived gender ratings in these children.
 
 
-Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. [**Poster**]
+Preliminary results of this study was presented in the ASA Fall 2021 meeting in Seattle. 
 
 Wong, E., & Munson, B. (2021). A longitudinal study of gender-specific characteristics of children’s vowels. The Journal of the Acoustical Society of America, 150(4), A152-A152. https://doi.org/10.1121/10.0007954
+[**Poster**](https://drive.google.com/file/d/1nzpfmkxjBUkU_2_p_MQYyM_Smql2Hs_5/view?usp=sharing)
 
 
 ---
@@ -43,6 +44,10 @@ This project validates the use of dynamic and processing-based assessments for i
 
 My role in this project is to modify test materials, collect and analyze data from Mandarin-English and Cantonese-English bilingual children. 
 
+Poster presentations:
+Wong, E. and Ebert, K. (2023). An alternative scoring method to reduce bias in nonword repetition for bilingual children. Symposium on Research in Child Language Disorders. Madison, WI. June 1-3. [**Poster**](https://drive.google.com/file/d/1NnfPB8cHyjUwC4fhCxp2KhwfDmPohxR8/view?usp=sharing)
+
+Kerry, E., Finestack, L., Kuchler, K. & Wong, E. (2023). Towards less-biased language assessment: Exploring dynamic and processing-based assessments in diverse bilingual children. Symposium on Research in Child Language Disorders. Madison, WI. June 1-3. 
 
 ---
 
