@@ -24,8 +24,9 @@ output:
 **Hi!** I am Eugene, a PhD candidate in [**Speech-Language-Hearing Sciences at the University of Minnesota**](https://cla.umn.edu/slhs). I am also a Hongkonger, born and raised in Hong Kong and a native speaker of Cantonese. 
 
 
+My research focuses on using acoustic methods to study early speech and language development.
 
-I use acoustic methods to study early speech and language development. I also work on improving language assessment methods for bilingual children. You can learn more about my research [here](https://eugene9488.github.io/personal_site/research.html).
+I work with Benjamin Munson on the acquisition of gender speech variation, and using early phonological knowledge to predict later language development. I also work with Kerry Ebert and Lizbeth Finestack on improving language assessment methods for bilingual children. You can learn more about my research [here](https://scholar.google.com/citations?hl=en&user=Fc6zOuYAAAAJ).
 
 
 Before coming to the University of Minnesota, I worked as a lab manager in the [**Department of Chinese and Bilingual Studies at the Hong Kong Polytechnic University**](https://www.polyu.edu.hk/cbs/). 
