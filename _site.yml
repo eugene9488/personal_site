@@ -1,5 +1,5 @@
 name: "."
-title: "Eugene Wong @UMN"
+title: "Eugene Wong"
 description: |
 output_dir: "docs"
 theme: postcards.css
@@ -18,5 +18,5 @@ navbar:
         - text: "ResearchGate"
           href: "https://www.researchgate.net/profile/Eugene-Wong-16"
         - text: "Email"
-          href: "mailto:wong0703@umn.edu"
+          href: "mailto:eugene.wong@utdallas.edu"
 
